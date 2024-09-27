@@ -1,10 +1,10 @@
 //criar variavel objeto
 
 let pessoa = {
-    nome: 'Maria',
-    sobrenome: 'Lauxen',
+    nome: 'Camila',
+    sobrenome: 'Zanella',
     idade: 17,
-    altura: 1.65,
+    altura: 1.55,
     cargo: 'estudante'
 };
 
